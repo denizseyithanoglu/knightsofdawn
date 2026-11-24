@@ -4,6 +4,7 @@
 
 - [Live Knights of Dawn ChatGPT Site](https://knights-of-dawn-deniz.dseyithan.chatgpt.site/)
 - [Updated canon and outstanding decisions](docs/CANON_AND_DECISIONS.md)
+- [Evidence-based decision tracker audit — 24 Nov 2026](docs/DECISION_AUDIT_2026-11-24.md)
 - [Source export and synchronization plan](docs/SOURCE_AND_SYNC.md)
 
 ## Editorial rules
