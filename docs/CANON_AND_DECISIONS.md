@@ -1,5 +1,5 @@
 # Knights of Dawn — Canon and Decision Register
-_Last consolidated: 23 November 2026. This is an editorial register, not a direct export of the live Site._
+_Last consolidated: 24 November 2026. This is an editorial register, not a direct export of the live Site._
 
 ## Confirmed author decisions
 
@@ -8,26 +8,25 @@ _Last consolidated: 23 November 2026. This is an editorial register, not a direc
 - The unique **Core of Light** created/enables the three perfect, indestructible **Regalia of Light**: Sword of Light (positive/Jadon), Armor of Light (neutral/Gadon, inactive Crown of Knowledge) and Shield of Light (negative/Radon). Positive/negative are not moral labels.
 - The five derivative/imperfect **Archian Regalia** are Scepter of Unity (Thunder), Necklace (Air), Eye (Water), Ring (Earth), Crown of Dominion (Fire). The elemental pairings are primary symbolic affinities, not exclusive power limits; the Ring can still control all five elements.
 - William can use the Crown of Knowledge, has partial resistance to Regalia influence, and ultimately gains both crowns. The Crown of Dominion is distinct from the indestructible Crown of Knowledge.
-- At the conclusion of the first saga, William's wish restores devastated Earth, revives eligible unjustly dead within a seven-year window (including Vindex), and protects the resurrected good for one year. The wish destroys the **five lesser** relics, not the Armor/Crown of Knowledge.
-- Far in the future, Radon's reincarnated soul is born as a descendant of Jack and becomes bearer of the Core. Jack reaches nirvana rather than being compelled to return to mortal life; he may guide the successor spiritually.
+- At the conclusion of the first saga, William's wish restores devastated Earth, revives eligible unjustly dead within a seven-year window (including Vindex), and protects the resurrected good for one year. The wish destroys only the **five imperfect Archian Regalia**. All three perfect Regalia of Light and the Core of Light survive.
+- Far in the future, Radon's reincarnated soul is born as a descendant of Jack and becomes bearer of the Core. Jack achieves nirvana after completing his destinies and remains at rest; he may guide the successor spiritually without returning to mortal life.
 
 ### People and GPO
 - Birth dates: **Jack and William — 20 September 3239**; **Hakan — 19 May 3239**; **Clarissa — 1 May 3241**.
 - GPO has five central headquarters: **Arlen**, **Los Angeles** (regional New York, Buenos Aires, São Paulo), **İstanbul** (Paris, Cairo), **Cape Town** (Nairobi, New Delhi), and **Beijing** (Singapore, Tokyo, Sydney).
 - GPO recruits **twice yearly**. Founder Alpha/Omega cohort: **883, summer 3246**. Jack/Hakan cohort: **893, summer 3251**. Hakan candidate **1000**, Jack candidate **0999**; no candidate numbers assigned to William/Charmers.
 - The founding Master Agents use Roman numerals **I–X**: Alpha I–V and Omega VI–X. Successors use Arabic numbers **1 onward**.
-- **Rachel belongs to Team 4 / Sense, not Team 3 / Horizon**. She has exceptional CBF perception and ego-related leadership challenges, but remains a Master Agent without becoming her team's leader.
+- **Rachel belongs to Team 4 / Sense**. She has exceptional CBF perception and ego-related leadership challenges, but remains a Master Agent without becoming her team's leader.
 
-## Superseded, outdated or mislabeled entries — correct in current views
+### Knight family backstory
+- A leak or betrayal affecting Knight Industries exposes the family. A subordinate Lord of Dusk abducts Jack on Radon's orders; Vindex rescues him and conceals him at an orphanage. William grows up under Knight Industries' protection with his butler. The same subordinate Lord later murders Vindex. The twins discover their relationship at the end of Year 1; the murderer's identity is revealed in Year 3.
 
-| Old/outdated presentation | Current treatment |
-| --- | --- |
-| Johannesburg as one of the five GPO central HQs | **Cape Town** is the confirmed central HQ. Preserve old Johannesburg references only as historical proposals, not current HQ listings. |
-| Rachel presented as a Team 3 member | Team **4 — Sense**. |
-| 4–5 year founder-to-Jack generation gap stated as settled | **3–4 years** is a newer proposal; do not finalize without further author approval. |
-| Eight million GPO members treated as the fixed current figure | Earlier minimum/proposal is superseded by a **12 million working figure**; confirm exact roster scale before asserting a fixed population. |
-| Automated canon updates assumed from chat or Site | No automatic conversation-to-Site or Site-to-GitHub publishing is established. |
-| Fixed count of 35 pending decisions | Count originated in the saved overview and needs recomputation after a full source audit. |
+## Current working figures and editorial review
+
+- GPO membership: **12 million** is a working figure, not a fixed confirmed population.
+- Founder-to-Jack age gap: **3–4 years** is a proposal, pending confirmation.
+- Author approved removal of R01–R13 and R15 from active backup documents on 24 November 2026. The original source archives and historical decision audit are preserved. R14 (earlier separation scenarios) remains pending; the approved backstory above is the current working canon. The alternate tracking and concealment proposals are not established plot facts.
+- Live decision count must be derived from verified records. Site-to-GitHub automatic publishing is not configured; the live Site's complete source has not yet been imported.
 
 ## Explicitly unresolved — do not silently decide
 
@@ -38,9 +37,10 @@ _Last consolidated: 23 November 2026. This is an editorial register, not a direc
 5. **William's sequence:** exact mechanism and timing of acquiring/using both crowns and how his actions intersect Jack's escape.
 6. **Saga II:** founding New Archia, politics, antagonists and final season count.
 7. **Knight of Light:** whether ~750 years is measured from the first saga's beginning or end, and how the reincarnation timeline operates.
+8. **Twin separation (R14):** identity of the betrayer and subordinate Lord, parents' fate, reason for Jack's missing memories, concealment logistics, and Radon's extraction plan remain unresolved.
 
 ## Change policy
 
-- Keep **original source documents and illustrations** in an archival area when imported; mark obsolete derived statements as superseded in public-facing current lore, rather than erasing provenance.
+- Keep **original source documents and illustrations** in an archival area when imported; remove author-approved obsolete wording from active canon while retaining provenance in the original archives and historical records.
 - Keep proposed characters, art styles, assignments and mechanics clearly labeled **proposal** until author approval.
 - The last recoverable site overview was a limited Library projection, **not the complete website**. The actual site must be checked after exact-source export before editing more entries.
